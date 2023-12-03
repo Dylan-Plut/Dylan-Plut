@@ -1,4 +1,4 @@
-### Hi there 👋
+Senior Student at ***Port Credit Secondary School***, learning to code!
 
 <!--
 **Dylan-Plut/Dylan-Plut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
