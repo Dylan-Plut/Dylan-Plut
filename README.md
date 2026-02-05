@@ -1,4 +1,4 @@
-Data Science Student at ***Wilfrid Laurier University***
+Data Science Student at ***Wilfrid Laurier University*** Currently Building https://closingline.app/
 
 <!--
 **Dylan-Plut/Dylan-Plut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
